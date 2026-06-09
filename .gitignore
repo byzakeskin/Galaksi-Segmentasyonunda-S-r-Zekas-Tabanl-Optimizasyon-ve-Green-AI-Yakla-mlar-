@@ -1,0 +1,25 @@
+# Python dosyaları ve cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter Notebook dosyaları
+.ipynb_checkpoints/
+
+# Veri setleri
+data/
+*.csv
+emissions.csv
+
+# Ortam dosyaları
+.env
+.venv
+venv/
+env/
+
+# IDE dosyaları
+.vscode/
+.idea/
+.DS_Store
